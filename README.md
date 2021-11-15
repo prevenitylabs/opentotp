@@ -1,6 +1,6 @@
 # OpenTOTP
 
-[OpenTOTP](https://github.com/prevenitylabs/) is yet another time-based, one-time passwords (OTPs) generator/verifier inspired by [RFC 6238](https://datatracker.ietf.org/doc/html/rfc6238).
+[OpenTOTP](https://github.com/prevenitylabs/opentotp) is yet another time-based, one-time passwords (OTPs) generator/verifier inspired by [RFC 6238](https://datatracker.ietf.org/doc/html/rfc6238).
 
 It generates and validates OTPs based on:
 1. Shared secret
